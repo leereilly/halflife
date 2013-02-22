@@ -7,7 +7,7 @@ Please use this repository to report bugs and feature requests for Half-Life 1 r
 
 News
 ----
-#### 2010-10-13 DOTA Announcement
+#### 2010-10-13 DOTA Announcement :new:
 
 ![DOTA Announcement](http://i.imgur.com/qnhDDdV.jpg)
 
